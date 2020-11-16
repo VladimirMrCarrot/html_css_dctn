@@ -1,0 +1,18 @@
+/*header options*/
+@font-face
+{
+	 font-family: UstrokeRegular;
+
+	 src: url('../fonts/UstrokeRegular.ttf') format('ttf')
+	 , url('../fonts/UstrokeRegular.woff2') format('woff2')
+	 , url('../fonts/UstrokeRegular.woff') format('woff');
+}
+@font-face
+{
+	 font-family: Lucznik1303;
+
+	 src: url('../fonts/Lucznik1303.ttf') format('ttf')
+	 , url('../fonts/Lucznik1303.woff2') format('woff2')
+	 , url('../fonts/Lucznik1303.woff') format('woff');
+}
+
