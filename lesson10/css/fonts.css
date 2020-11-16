@@ -1,0 +1,5 @@
+/*fonts*/
+@font-face {
+	font-family: "Kinkie";
+	src: url("../../fonts/Kinkie.ttf") format("ttf"), url("../../fonts/Kinkie.woff2") format("woff2"), url("../../fonts/Kinkie.woff") format("woff");
+}
