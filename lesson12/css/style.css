@@ -1,0 +1,57 @@
+@import url("fonts.css");
+
+body {
+	font-family: Kinkie;
+	background-color: #fff;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul.icon {
+	list-style-image: url("../../images/check.png");
+}
+
+header {
+	border: solid 1px #0c0;
+	height: 100%;
+	width: 100%;
+	/* margin: 0;
+	padding: 0; */
+}
+
+footer {
+	border: solid 1px #0c0;
+	height: 100%;
+	width: 100%;
+	/* margin: 0;
+	padding: 0; */
+}
+
+.header {
+	border: solid 2px #0c1888;
+	margin: 0 auto;
+	text-align: center;
+	padding: 0;
+	width: 600px;
+	box-shadow: 5px 10px 15px #000;
+}
+
+.footer {
+	border: solid 2px #0c1888;
+	margin: 0 auto;
+	text-align: center;
+	padding: 50px 3px;
+	width: 700px;
+}
+
+ul.icon {
+	border: solid 2px #0c1888;
+	margin: 30px auto;
+	text-align: center;
+}
+
+p {
+	border: solid 2px #c00;
+}
