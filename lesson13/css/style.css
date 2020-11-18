@@ -1,0 +1,22 @@
+@import url("fonts.css");
+
+body {
+	background: url(../../images/Skull.jpg);
+	margin: 0;
+	padding: 0;
+	font-family: Kinkie;
+	font-size: 200%;
+	color: #eee8e8
+}
+
+h1 {
+	background: linear-gradient(70deg, #ff92, #0cff);
+	text-align: center
+}
+
+div.fish_text {
+	background: radial-gradient(at center, #684d5f, #fff);
+	height: 500px;
+	border-radius: 200px;
+	padding: 100px
+}
